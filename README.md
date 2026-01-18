@@ -2,7 +2,7 @@
 <h3 align="center">Experience and passion for secure systems, automation, and networking.</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mariesha-zara-murphy">
+  <a href="https://www.linkedin.com/injoshuacampbell49">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square&logo=linkedin" alt="LinkedIn Badge" />
   </a>
   <a href="mailto:joshuacampbell49@yahoo.co.uk">
