@@ -1,59 +1,93 @@
-<h1 align="center">Hello! I'm Joshus Campbell,</h1>
-<h3 align="center">Experience and passion for secure systems, automation, and networking.</h3>
+<h1 align="center">Hi, I'm Joshua Campbell</h1>
+<h3 align="center">I build secure, reliable systems across backend, cloud, and networking.</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/injoshuacampbell49">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square&logo=linkedin" alt="LinkedIn Badge" />
-  </a>
   <a href="mailto:joshuacampbell49@yahoo.co.uk">
-    <img src="https://img.shields.io/badge/Email-Contact-informational?style=flat-square&logo=gmail" alt="Email Badge" />
+    <img src="https://img.shields.io/badge/Email-joshuacampbell49%40yahoo.co.uk-informational?style=flat-square&logo=gmail" alt="Email Badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/joshuacampbell49">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn Badge" />
+  </a>
+  <a href="https://github.com/Joshua">
+    <img src="https://img.shields.io/badge/GitHub-Joshua-111?style=flat-square&logo=github" alt="GitHub Badge" />
   </a>
 </p>
 
----
-### 🚧 What I'm working on 🚧
-
-- Completing my **BSc** in Computer Science with a predicted First-Class Honours 
-- Working as the only **non-postgraduate teaching assistant** for 'Operating Systems & Networking' module @ UoL
-- Finalising my dissertation project: **ddg** – a custom debugger for Unix systems written in C/C++
-- Preparing to start as an **Incoming Quant Platform Engineer at QRT**
-- Continuing preparation for the **Cisco Certified Network Associate (CCNA)** certification
+<p align="center">
+  <b>UK Citizen</b> · <b>London, UK</b> · <b>07938 364 114</b>
+</p>
 
 ---
 
-### ✅ Recent Projects & Wins ✅ 
-
-- **Teaching Assistant** – Operating Systems & Networking (OS&N) Module
-
-<sub>Selected as the only non-postgraduate TA for this core module. Supported students with concurrency, multithreaded programming, and networking in Bash/C/Unix, helping debug synchronisation issues, thread management, and socket programming challenges</sub>
-
-- **AWS Internship** - 3-month Internship, IE
-
-<sub>Automated AWS network deployments with Python, TypeScript, CDK, and CloudFormation; troubleshot L2/L3 networking issues</sub>
- 
-- 🧠 **HeapHeaver** -  C Project
-
-<sub>Created a custom memory integrity analysis tool for C on Unix. Leveraged Bash scripting and Docker for reproducible, secure builds—ideal for environments where tools like Valgind aren’t available</sub>
-- 👩‍💻 **Software Developer Placement** - 12-month Internship, UK
- 
-<sub>Built Unix utilities using C, C++, and Bash. Worked heavily with Docker and VMware ESXi to streamline development and system testing in virtulised environments</sub>
+## About
+- Graduate Software Engineer at **Fitch Ratings** (Enterprise & Data Analytics)
+- Strong interests in **secure systems**, **automation**, **cloud infrastructure**, and **networking**
+- Currently preparing for **CCNA** and building products with **TypeScript/Python/Java/AWS**
 
 ---
 
-### 📚 What I'm learning
+## Experience
 
-- 🌐 Advanced networking: BGP, OSPF, NAT, VLANs, and network security (via CCNA & internships)
-- ☁️ Cloud infrastructure: AWS CDK, CloudFormation, VPC design, CI/CD pipelines (via CCNA, university modules, internships and self-teaching)
-- 🧠 Systems-level development (UNIX/POSIX), debugging tools, memory introspection (via internships, dissertation project, and self-teaching )
-- 🔐 Secure automation and observability practices for modern infrastructure (via internships and self-teaching)
+### Graduate Software Engineer — Fitch Ratings (London, UK) | Sep 2024 – Present
+- Replaced Excel workflows at Fitch BMI with a **TypeScript + Python** app, improving analyst productivity by **67%**
+- Modernised internal tooling: built a **React** app integrating **Qlik** and **Power BI**; contributed to an **ML product recommender** in **Python**
+- Automated AWS infrastructure for **DEV/QA/STG** using **IaC**, **Bamboo**, and **ArgoCD**; built tooling saving **$15K** by removing unused cloud resources
+- Developed/enhanced core ratings workflow platform with **Java**, **Spring**, **GraphQL**, and **Kafka** to improve scalability and streamline workflows
+- Co-hosted an **AWS Cloud Practitioner** study group (weekly sessions + quizzes) with a **95% pass rate**
+
+### Software Engineer Intern — Publicis Sapient (London, UK) | Jun 2023 – Sep 2023
+- Built an all-in-one **web3 loyalty app** in a scrum team of 6; used **Solidity** for secure points/rewards transactions
+- Designed and managed the API using **Spring Boot (Java)** to enable companies to create their own loyalty app
+- Developed an AI-powered chatbot to assist users with navigation and tailored reward recommendations
+- Implemented and maintained **Azure DevOps** pipelines; used **MongoDB**; hosted on **AWS EC2** with **S3** for images
+- Presented to senior leadership within Publicis Sapient
+
+### Software Engineer Placement — Webexpenses (Oxford, UK) | Jun 2022 – Jun 2023
+- Developed and maintained **Metis**, a tester tool to automate regression tests with **Selenium (Java/C#)**
+- Implemented/debugged features and fixed bugs across the platform
+- Increased testing efficiency, enabling testers to complete work **45% faster**
 
 ---
 
-### 🛠️ Current Languages and Tools
+## Projects
 
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Jira" width="40" height="40"/> </p>
+### Predictable — Esports Prediction Market (in progress)
+- Building an esports-focused prediction market with a modern web frontend and on-chain components
+- Tech: **Next.js/React**, **TypeScript**, **Solidity**, **EVM tooling**, (optionally) **The Graph** for indexing/querying
+- Focus: market creation, trading UX, wallet integrations, and transparent settlement mechanics
 
+### StackR — Group Bitcoin Savings Platform (POC) | Jun 2025 – Present
+- POC platform enabling users to save together globally
+- Backend: **Apollo GraphQL**, **PostgreSQL/MySQL**, secure storage of encrypted user/wallet data
+- Frontend: modern **React + TypeScript** UI for personal and group wallet management
+- Security: multisig wallets with **BitcoinJS**, securing keys/scripts using **AE12 encryption**
+- Infrastructure: hosted in **AWS** with **Terraform** inside a **VPC**
+- Delivery: unit tests + CI/CD with **GitHub Actions** (DEV → STG → production)
 
-### 🛠️ Previously Used / Familiar Tools
+---
 
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="4G" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg" alt="Seaborn" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/> </p>
+## Education
+**University of Leicester** (Leicester, UK) | Sep 2020 – Jul 2024  
+**BSc Computer Science with Year in Industry — First Class**
+
+- Courses: Data Structures & Algorithms, Software Architecture & System Development, Object Oriented
+- Activities: J.P. Morgan Code for Good Hackathon attendee, Peer Mentor, Google Developer Student Club member
+
+---
+
+## Skills
+- **Languages**: Java, Python, C#, SQL (Postgres), JavaScript, TypeScript, C/C++
+- **Frameworks/Tech**: React, Node.js, Spring Boot, GraphQL, Kafka, FastAPI, Selenium
+- **Cloud/DevOps**: AWS, Terraform, Bamboo, ArgoCD, GitHub Actions, Azure DevOps
+- **Tools**: Git, Bitbucket
+- **Certification**: AWS Certified Cloud Practitioner
+
+---
+
+## What I’m working on
+- Building **Predictable**
+- CCNA prep (routing/switching, network security)
+- Improving platform engineering skills (IaC, CI/CD, observability)
+
+---
+If you’d like, send me your preferred **LinkedIn URL** and the **actual GitHub profile link** you want shown (your current ones look inconsistent), and I’ll fix the badges/links precisely.
