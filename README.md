@@ -25,7 +25,7 @@
 ## 💼 Experience
 
 ### 🚀 Graduate Software Engineer - Fitch Ratings (London, UK) | Sep 2024 – Present
-Built and automated cloud-native internal platforms using **Java, TypeScript, Python, AWS, GraphQL, and Kafka**, replacing manual workflows (**+67% productivity**) and saving **$15k** via infrastructure automation.
+Rotated in 4 squads: BMI, Data Analytics, SRES and Core Services. Full time in the Enterprise Data Analytics team building Agentic AI solutions to harness Data at Fitch
 
 ### 🌐 Software Engineer Intern - Publicis Sapient (London, UK) | Jun 2023 – Sep 2023
 Developed a **Web3 loyalty platform** using **Solidity + Spring Boot**, delivering secure on-chain rewards, APIs, CI/CD pipelines, and an AI assistant in an agile team.
