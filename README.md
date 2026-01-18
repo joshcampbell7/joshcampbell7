@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Joshua Campbell</h1>
-<h3 align="center">I build secure, reliable systems across backend, cloud, and networking.</h3>
+<h1 align="center">👋 Hi, I'm Joshua Campbell</h1>
+<h3 align="center">💻 Software Engineer from London · Web3 & Cloud Infrastructure</h3>
 
 <p align="center">
   <a href="mailto:joshuacampbell49@yahoo.co.uk">
@@ -13,81 +13,70 @@
   </a>
 </p>
 
-<p align="center">
-  <b>UK Citizen</b> · <b>London, UK</b> · <b>07938 364 114</b>
-</p>
-
 ---
 
-## About
+## 🧑‍💻 About
 - Graduate Software Engineer at **Fitch Ratings** (Enterprise & Data Analytics)
-- Strong interests in **secure systems**, **automation**, **cloud infrastructure**, and **networking**
-- Currently preparing for **CCNA** and building products with **TypeScript/Python/Java/AWS**
+- Strong interests in **cloud infrastructure** and **Web3**
+- **University of Leicester** - **BSc Computer Science with Year in Industry (First Class)**
 
 ---
 
-## Experience
+## 💼 Experience
 
-### Graduate Software Engineer — Fitch Ratings (London, UK) | Sep 2024 – Present
-- Replaced Excel workflows at Fitch BMI with a **TypeScript + Python** app, improving analyst productivity by **67%**
-- Modernised internal tooling: built a **React** app integrating **Qlik** and **Power BI**; contributed to an **ML product recommender** in **Python**
-- Automated AWS infrastructure for **DEV/QA/STG** using **IaC**, **Bamboo**, and **ArgoCD**; built tooling saving **$15K** by removing unused cloud resources
-- Developed/enhanced core ratings workflow platform with **Java**, **Spring**, **GraphQL**, and **Kafka** to improve scalability and streamline workflows
-- Co-hosted an **AWS Cloud Practitioner** study group (weekly sessions + quizzes) with a **95% pass rate**
+### 🚀 Graduate Software Engineer - Fitch Ratings (London, UK) | Sep 2024 – Present
+Built and automated cloud-native internal platforms using **Java, TypeScript, Python, AWS, GraphQL, and Kafka**, replacing manual workflows (**+67% productivity**) and saving **$15k** via infrastructure automation.
 
-### Software Engineer Intern — Publicis Sapient (London, UK) | Jun 2023 – Sep 2023
-- Built an all-in-one **web3 loyalty app** in a scrum team of 6; used **Solidity** for secure points/rewards transactions
-- Designed and managed the API using **Spring Boot (Java)** to enable companies to create their own loyalty app
-- Developed an AI-powered chatbot to assist users with navigation and tailored reward recommendations
-- Implemented and maintained **Azure DevOps** pipelines; used **MongoDB**; hosted on **AWS EC2** with **S3** for images
-- Presented to senior leadership within Publicis Sapient
+### 🌐 Software Engineer Intern - Publicis Sapient (London, UK) | Jun 2023 – Sep 2023
+Developed a **Web3 loyalty platform** using **Solidity + Spring Boot**, delivering secure on-chain rewards, APIs, CI/CD pipelines, and an AI assistant in an agile team.
 
-### Software Engineer Placement — Webexpenses (Oxford, UK) | Jun 2022 – Jun 2023
-- Developed and maintained **Metis**, a tester tool to automate regression tests with **Selenium (Java/C#)**
-- Implemented/debugged features and fixed bugs across the platform
-- Increased testing efficiency, enabling testers to complete work **45% faster**
+### 🧪 Software Engineer Placement - Webexpenses (Oxford, UK) | Jun 2022 – Jun 2023
+Built automated testing tooling with **Selenium (Java/C#)**, reducing regression testing time by **45%** across the platform.
 
 ---
 
-## Projects
+## 🧠 Projects
 
-### Predictable — Esports Prediction Market (in progress)
+### 🎮 Predictable - Esports Prediction Market (in progress)
 - Building an esports-focused prediction market with a modern web frontend and on-chain components
-- Tech: **Next.js/React**, **TypeScript**, **Solidity**, **EVM tooling**, (optionally) **The Graph** for indexing/querying
+- Tech: **Next.js/React**, **TypeScript**, **Solidity**, **EVM tooling**, (optionally) **The Graph**
 - Focus: market creation, trading UX, wallet integrations, and transparent settlement mechanics
 
-### StackR — Group Bitcoin Savings Platform (POC) | Jun 2025 – Present
+### ₿ StackR - Group Bitcoin Savings Platform (POC) | Jun 2025 – Present
 - POC platform enabling users to save together globally
-- Backend: **Apollo GraphQL**, **PostgreSQL/MySQL**, secure storage of encrypted user/wallet data
-- Frontend: modern **React + TypeScript** UI for personal and group wallet management
-- Security: multisig wallets with **BitcoinJS**, securing keys/scripts using **AE12 encryption**
-- Infrastructure: hosted in **AWS** with **Terraform** inside a **VPC**
-- Delivery: unit tests + CI/CD with **GitHub Actions** (DEV → STG → production)
+- Backend: **Apollo GraphQL**, **PostgreSQL/MySQL**, encrypted wallet/user data
+- Frontend: **React + TypeScript** wallet and group management UI
+- Security: multisig wallets with **BitcoinJS** + **AE12 encryption**
+- Infra: **AWS + Terraform (VPC)**
+- Delivery: CI/CD with **GitHub Actions** (DEV → STG → PROD)
 
 ---
 
-## Education
-**University of Leicester** (Leicester, UK) | Sep 2020 – Jul 2024  
-**BSc Computer Science with Year in Industry — First Class**
+## 🛠️ Languages & Tools
 
-- Courses: Data Structures & Algorithms, Software Architecture & System Development, Object Oriented
-- Activities: J.P. Morgan Code for Good Hackathon attendee, Peer Mentor, Google Developer Student Club member
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="Solidity" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="Postgres" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg" alt="Azure DevOps" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" width="40" height="40"/>
+</p>
 
----
-
-## Skills
-- **Languages**: Java, Python, C#, SQL (Postgres), JavaScript, TypeScript, C/C++
-- **Frameworks/Tech**: React, Node.js, Spring Boot, GraphQL, Kafka, FastAPI, Selenium
-- **Cloud/DevOps**: AWS, Terraform, Bamboo, ArgoCD, GitHub Actions, Azure DevOps
-- **Tools**: Git, Bitbucket
-- **Certification**: AWS Certified Cloud Practitioner
-
----
-
-## What I’m working on
-- Building **Predictable**
-- CCNA prep (routing/switching, network security)
-- Improving platform engineering skills (IaC, CI/CD, observability)
-
----
-If you’d like, send me your preferred **LinkedIn URL** and the **actual GitHub profile link** you want shown (your current ones look inconsistent), and I’ll fix the badges/links precisely.
+🎓 **Certification:** AWS Certified Cloud Practitioner
